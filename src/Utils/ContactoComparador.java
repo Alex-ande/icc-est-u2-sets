@@ -14,5 +14,8 @@ if (comparacionApellido != 0) {
 }
 // si los apellido son iguales , si los nomres son iguales
 return c1.getNombre().compareToIgnoreCase(c2.getNombre());
+// comparamos apellidos y nombres
+
    }
+
 }
